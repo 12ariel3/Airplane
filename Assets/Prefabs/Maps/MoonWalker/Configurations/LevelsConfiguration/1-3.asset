@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1303ed6bd880aa43aae9a86a23c5bd3, type: 3}
+  m_Name: 1-3
+  m_EditorClassIdentifier: 
+  _spawnConfigurations:
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 1
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 2
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 7
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 8
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 13
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 16
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 18
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 20
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 25
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 28
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 31
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 32
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 33
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 40
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 42
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 44
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 46
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 48
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 54
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 59
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  - _projectileNumberToSpawnConfigurations: 1
+    _timeToSpawn: 60
+    _isRandom: 1
+    _isTop: 0
+    _isLeftAside: 0
+    _isRightAside: 0
+  _projectileLevel: 2
+  _energyToRest: 1
+  _levelNumber: 3
+  _totalLevelNumber: 3
+  _projectileToSpawnConfiguration:
+  - {fileID: 11400000, guid: d8bfef1d396457c43952e86ce7d0643d, type: 2}
+  _debuffProbability: 5
+  _specialProjectileCastPercentaje: 0
+  _specialProjectileToSpawnConfiguration: []

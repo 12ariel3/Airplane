@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: UIBackground
+    uniqueID: 3697343293
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PopUps
+    uniqueID: 4278387337
+    locked: 0
+  - name: CanvasUI
+    uniqueID: 1328709239
     locked: 0

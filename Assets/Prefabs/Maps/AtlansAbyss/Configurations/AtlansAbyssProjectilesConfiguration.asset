@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3076c38914b79240aced13fec550a49, type: 3}
+  m_Name: AtlansAbyssProjectilesConfiguration
+  m_EditorClassIdentifier: 
+  _projectilePrefabs:
+  - {fileID: 2632062026083669283, guid: 35ad557fe0a7d194fad62879708bd361, type: 3}
+  - {fileID: 2632062026083669283, guid: 16e8c281f98961540a09d623d4706043, type: 3}
+  - {fileID: 2632062026083669283, guid: 99c5dcd81d7db294fb6bc31c81b4f77c, type: 3}
+  - {fileID: 2632062026083669283, guid: 22ac5ba61adbc9245ad51f31ad87e6b1, type: 3}
+  _id: {fileID: 11400000, guid: 0c5fe6a064430cf48a587809d9bb2ac5, type: 2}

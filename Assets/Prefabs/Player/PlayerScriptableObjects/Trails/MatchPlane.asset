@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: MatchPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: 893eb2e540850414ba433828e798f04e, type: 2}
+  _trailUpgradeBaseValue: 5
+  _trailUnlockScoreCost: 2100
+  _trailUnlockGemsCost: 110
+  _trailBaseHp: 450
+  _trailFire: 0.22
+  _trailPoison: 0.11
+  _trailIce: 0.24
+  _trailWater: 0.22
+  _trailElectric: 0.35
+  _trailGhost: 0.33
+  _trailRainbow: 0.28
+  _trailSpeed: 4.7
+  _trailTurnSpeed: 110
+  _unevolvedSword: {fileID: 11400000, guid: 26e1abe9d50eafc4ea8b5a6f914bddc3, type: 2}
+  _evolvedSword: {fileID: 11400000, guid: 09cab99cf637fb547ac21cd1109efa43, type: 2}
+  _deepBackground: {r: 1, g: 0.8998742, b: 0, a: 0}
+  _background: {r: 0.6792453, g: 0.42488945, b: 0, a: 0}
+  _iconBackground: {r: 0.31699735, g: 0.754717, b: 0.3025988, a: 0}
+  _nameColor: {r: 0.31764707, g: 0.75686276, b: 0.30588236, a: 0}
+  _levelColor: {r: 0.31764707, g: 0.75686276, b: 0.30588236, a: 0}

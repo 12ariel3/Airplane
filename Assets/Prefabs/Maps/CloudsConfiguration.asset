@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d7c565db842f974990dc6ddfc908764, type: 3}
+  m_Name: CloudsConfiguration
+  m_EditorClassIdentifier: 
+  _moonWalkerCloudsPrefabs:
+  - {fileID: 2717859232470299619, guid: e52d2132997fe7249a05334a7d729ad7, type: 3}
+  - {fileID: 9039391410080276393, guid: 4fed9ea4598048f49ab67a3c9baa00e5, type: 3}
+  - {fileID: 7032798312417639224, guid: 49e1d45d1e9f5f94e8983e70f3c9f8ce, type: 3}
+  _atlansAbyssCloudsPrefabs:
+  - {fileID: 995524267938544194, guid: a07db207f61a5044fb1a00059cfe6554, type: 3}
+  - {fileID: 686146848890501767, guid: acf097f6331d7574ba80796b41dd5780, type: 3}
+  - {fileID: 5029671258288035136, guid: 5e3250a341403744982e43801505f171, type: 3}
+  _villaSoldatiCloudsPrefabs:
+  - {fileID: 5120730440778669319, guid: 17aeb7cda34800644b3826288b671a8b, type: 3}
+  - {fileID: 3432965265514504566, guid: 06a667162a57dbf4593abe13f1062bb2, type: 3}
+  - {fileID: 7135929851752812260, guid: 6f24d75ca651af74d8a10879d9b61c3f, type: 3}
+  _raklionCloudsPrefabs:
+  - {fileID: 2715926087359505873, guid: edb1428e1dd12e64784114a7dd8e9261, type: 3}
+  - {fileID: 6297685159764641334, guid: 6cdbd890b35da2949883c0f689f52ef6, type: 3}
+  - {fileID: 4247317134256843841, guid: dfd70b8bdf10a4c4b8946f3b6962af0e, type: 3}
+  _acheronCloudsPrefabs:
+  - {fileID: 5008090633054693785, guid: 37f57d6f5c5ada449988972561a118e5, type: 3}
+  - {fileID: 5464984738797643, guid: f77453c14bf17dc4f8242163ec831703, type: 3}
+  - {fileID: 6469866907550679629, guid: 68e7bbff10a67594cae5965119bc3822, type: 3}
